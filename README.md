@@ -1,3 +1,5 @@
+**このプロジェクトは[こちら](https://github.com/ClassTech-Lab/edubase)に移行しました**
+
 # オンライン授業Lab PJ
 オンラインの学びの場ををアップデートする教員・教育委員会のためのプラットフォーム
 関連issue: [#1](https://github.com/MayumiKamio/edubase/issues/1#issuecomment-632987826)
